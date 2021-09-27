@@ -1,0 +1,5 @@
+services:
+  ros:
+    build: .
+    volumes: 
+      - .:/code
